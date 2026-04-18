@@ -158,7 +158,7 @@ setInterval(logSystemInfo, 30 * 60 * 1000);
 // ======================================
 function fetchBotMeta() {
   const sources = [
-    "https://raw.githubusercontent.com/Sujon-Boss/fb-bot/main/package.json"
+    "https://raw.githubusercontent.com/Sujon-boss86/Sujon-Mirai-v2-Ultra/main/package.json"
   ];
 
   const tryFetch = (url) => {
